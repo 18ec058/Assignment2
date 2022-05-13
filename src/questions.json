@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "question": "Who  is RCB captain 2022?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "MS Dhoni", "isCorrect": false },
+      { "option": "Virat Kohli ", "isCorrect": false },
+      { "option": "Faf du Plessis", "isCorrect": true },
+      { "option": "Abraham Benjamin de Villiers", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "KKR won IPL trophy in the fallowing years",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "2012", "isCorrect": true },
+      { "option": "2014", "isCorrect": true },
+      { "option": "2015", "isCorrect": false },
+      { "option": "2013", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is Lucknow IPL team name?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }]
+  },
+  {
+    "id": 4,
+    "question": "CSK have won 4 IPL cups",
+    "questionType": "radio",
+    "answerOptions":[
+      { "option": "True", "isCorrect": true },
+      { "option": "False ", "isCorrect": false }
+    ]  
+  },
+  
+  {
+    "id": 5,
+    "question": "Match the fallowing\nMS Dhoni\t\tMI",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "MS Dhoni", "isCorrect": false },
+      { "option": "Virat Kohli ", "isCorrect": false },
+      { "option": "Faf du Plessis", "isCorrect": true },
+      { "option": "Abraham Benjamin de Villiers", "isCorrect": false }
+    ]
+  }
+
+]
